@@ -12,4 +12,4 @@ choice = input("Where do you want to go next? hint: enter a 5")
 if choice == "5":
     import page5
 else:
-    import page1
+    import page10
