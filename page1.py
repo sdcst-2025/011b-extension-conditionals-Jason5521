@@ -8,7 +8,7 @@ print("")
 print("""On top of that, you hear something approaching. the footsteps rattle the earth beneath your feet. You must run.
       before you are two paths: one path that leads to a lighthouse, another path that leads deeper into the forest.
       """)
-choice = input("to pick the lighthouse path, enter a 5. to pick the forest path, enter a 2.")
+choice = input("to pick the forest path, enter a 5. to pick the lighthouse path, enter a 2.")
 if choice == "5":
     import page5
 elif choice == "2":
