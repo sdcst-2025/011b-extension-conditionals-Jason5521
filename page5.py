@@ -19,7 +19,9 @@ print("")
 print("A choice presents itself: you can[bold red underline]Trust the voice and go left[/bold red underline], or you can [bold green underline]run in the opposite direction[/bold green underline].")
 print("")
 choice = input("To go left, enter a 4. to go the opposite way, enter a 12.")
-if choice == "2":
-    import page2
+if choice == "4":
+    import page4
+elif choice == "12":
+    import page12
 else:
-    import page1
+    import page10
