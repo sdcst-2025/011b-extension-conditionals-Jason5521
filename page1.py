@@ -1,6 +1,5 @@
 from os import system
 system("clear||cls")
-
 print("You find yourself lost in a cold, dark forest.")
 print("")
 print("Some insect-like creature has made your lunchbox it's final resting place.")

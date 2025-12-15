@@ -30,7 +30,13 @@ print("You don't know what time it is,")
 print("")
 print("And there's not another soul for miles.")
 print("")
-print("")
 print("With all these facts in mind, you consider your options.")
 print("")
-choice = input("")
+choice = input("To hear this woman out, enter a 14. To run away in the opposite direction, enter a 15.")
+
+if choice == "14":
+    import page14
+elif choice == "15":
+    import page15
+else:
+    import page10
