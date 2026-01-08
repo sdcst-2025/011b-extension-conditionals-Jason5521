@@ -1,0 +1,20 @@
+from rich import print
+from os import system
+system("clear||cls")
+
+print("You decide to attempt jumping over the gate.")
+print("")
+print("Having watched a few gate climbing tutorials online, you have an idea.")
+print("")
+print("with a running start, you jump up and grab the barbed wire.")
+print("")
+print("Somehow, the barbed wire is electrified.")
+print("")
+print("You fall to the ground, unable to move. an alarm sounds, drawing the attention of the creature.")
+print("")
+print("your efforts to move are in vain, the shock is too much.")
+print("")
+print("wether the shock or the creature finished you off is a mystery to investigators.")
+print("")
+print("")
+print("The end!")

@@ -12,10 +12,10 @@ print("At the entrance, you spot a sign that reads,")
 print("""'[white on blue]MESSAGE FROM THE CRYPTID CONTAINMENT CENTER[/white on blue]
       [white on red]WARNING
 
-     UNIDENTIFIED QUADRIPED SPECIES DETECTED IN FOREST VICINITY 
-      DO NOT APPROACH
-      EXIT THE FOREST IMMEDIATELY
-      EXITS WILL BE SEALED AFTER 10:00 PM[/white on red]'""")
+     UNIDENTIFIED QUADRUPED SPECIES DETECTED IN FOREST VICINITY 
+                         DO NOT APPROACH                        
+                         EXIT THE FOREST IMMEDIATELY            
+                         EXITS WILL BE SEALED AFTER 10:00 PM    [/white on red]'""")
 print("")
 print("[black underline]This can't be happening[/black underline], you think to yourself.")
 print("")
