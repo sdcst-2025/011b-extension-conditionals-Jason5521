@@ -30,7 +30,7 @@ print("As it turns out, the thorns that covered the hill were part of a larger c
 print("")
 print("There is no light beneath the hill that the thorn-creature lives in.")
 print("")
-print("the final minutes before you lose conciousness is spent without sight, sound, or even feeling.")
+print("The final minutes before you lose conciousness is spent without sight, sound, or even feeling.")
 print("")
 
 print("The end!")
